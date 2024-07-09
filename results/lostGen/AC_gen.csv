@@ -1,0 +1,31 @@
+Gen,bus,type,name,P_max,Q_max
+1,1,Solar PV,Solar_PV_1,1960,980
+2,2,Solar PV,Solar_PV_2,640,320
+3,3,Solar PV,Solar_PV_3,5600,2800
+4,4,Solar PV,Solar_PV_4,5160,2580
+5,5,Solar PV,Solar_PV_5,5050,2525
+6,6,Solar PV,Solar_PV_6,3090,1545
+7,1,Onshore Wind,Onshore_Wind_1,540,270
+8,2,Onshore Wind,Onshore_Wind_2,1090,545
+9,3,Onshore Wind,Onshore_Wind_3,1970,985
+10,4,Onshore Wind,Onshore_Wind_4,2180,1090
+11,5,Onshore Wind,Onshore_Wind_5,1350,675
+12,6,Onshore Wind,Onshore_Wind_6,880,440
+13,1,Offshore Wind,Offshore_Wind_1,1080,540
+14,2,Offshore Wind,Offshore_Wind_2,90,45
+15,3,Offshore Wind,Offshore_Wind_3,2100,1050
+16,4,Offshore Wind,Offshore_Wind_4,0,0
+17,5,Offshore Wind,Offshore_Wind_5,40,20
+18,6,Offshore Wind,Offshore_Wind_6,190,95
+19,1,Conventional,Conventional_gen_1,220,110
+20,2,Conventional,Conventional_gen_2,520,260
+21,3,Conventional,Conventional_gen_3,1090,545
+22,4,Conventional,Conventional_gen_4,860,430
+23,5,Conventional,Conventional_gen_5,1520,760
+24,6,Conventional,Conventional_gen_6,620,310
+25,1,VOLL,VOLL_gen_1,0,0
+26,2,VOLL,VOLL_gen_2,0,0
+27,3,VOLL,VOLL_gen_3,0,0
+28,4,VOLL,VOLL_gen_4,0,0
+29,5,VOLL,VOLL_gen_5,0,0
+30,6,VOLL,VOLL_gen_6,0,0
